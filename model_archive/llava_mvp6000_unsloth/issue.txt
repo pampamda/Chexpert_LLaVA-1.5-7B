@@ -1,0 +1,4 @@
+Degeneration pattern
+
+Appearance: issues arise from repeating inference patterns and sentences being repeated multiple times.
+Solution: add special tokens to define boundaries and modify the training data.
